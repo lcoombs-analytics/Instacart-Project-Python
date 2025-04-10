@@ -1,10 +1,12 @@
 Instacart Sales Analysis: Python Data Analysis Project
 
 📽️ Project Overview
+
 Instacart is an online grocery platform with strong overall sales. However, to sharpen their competitive edge, the company is exploring deeper insights into customer behaviors and sales patterns.  In this project, I analyzed the available data using Python to provide actionable insights and strategic recommendations for enhancing targeted marketing efforts.
 ________________________________________
 
 🎯 Objectives
+
 The key business questions and objectives for this project include:
 • Identify the busiest days and hours for orders to optimize ad scheduling.
 • Determine which time periods yield the highest customer spending for informed product promotions.
@@ -14,6 +16,7 @@ The key business questions and objectives for this project include:
 ________________________________________
 
 🧰 Tools & Technologies
+
 • Python: Primary language for data manipulation and analysis.
 • Jupyter Notebooks: For developing and documenting the analysis process.
 • pandas & NumPy: For data cleaning, manipulation, and statistical analysis.
@@ -22,6 +25,7 @@ ________________________________________
 ________________________________________
 
 🗃️ Data Set
+
 The Instacart analysis utilizes multiple open-source datasets including:
 • Instacart Data Sets:
  – Data Dictionary
@@ -34,6 +38,7 @@ Size & Format:
 ________________________________________
 
 🚀 Project Workflow
+
 1.	Environment Setup: Install Python (preferably via Anaconda) and set up the Jupyter Notebook environment.
 2.	Data Loading & Exploration: Import the Instacart and customer datasets; conduct initial data exploration and descriptive checks (head, tail, shape, and basic statistics).
 3.	Data Cleaning & Merging: Clean the data, address missing values, and merge datasets using common identifiers.
@@ -48,6 +53,7 @@ ________________________________________
 ________________________________________
 
 📝 Final Deliverables
+
 • Python Scripts/Notebooks: Well-documented code with clear headings and comments for data loading, cleaning, analysis, and visualization.
 • Data Visualizations: A suite of visualizations (bar plots, histograms, line charts, etc.) that illustrate key insights.
 • Merged Dataset: A clean, merged data file containing all variables relevant to the analysis.

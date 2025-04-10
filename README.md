@@ -1,7 +1,3 @@
-Absolutely! Here’s your polished `README.md` for the **Instacart Sales Analysis: Python Data Analysis Project**, styled to match your Rockbuster project for portfolio consistency:
-
----
-
 # 🛒 Instacart Sales Analysis: Python Data Analysis Project
 
 📽️ **Project Overview**

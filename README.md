@@ -42,6 +42,7 @@ The Instacart analysis utilizes multiple open-source datasets including:
 • Instacart Data Sets:
 
  – Data Dictionary
+ 
  – Transactional and order data
  
 • Customers Data Set:

@@ -58,24 +58,27 @@ ________________________________________
 🚀 Project Workflow
 
 1.	Environment Setup: Install Python (preferably via Anaconda) and set up the Jupyter Notebook environment.
-2.	
-3.	Data Loading & Exploration: Import the Instacart and customer datasets; conduct initial data exploration and descriptive checks (head, tail, shape, and basic statistics).
-4.	
-5.	Data Cleaning & Merging: Clean the data, address missing values, and merge datasets using common identifiers.
-6.	
-7.	Analytical Exploration:
-8.	
+  
+2.	Data Loading & Exploration: Import the Instacart and customer datasets; conduct initial data exploration and descriptive checks (head, tail, shape, and basic statistics).
+  
+3.	Data Cleaning & Merging: Clean the data, address missing values, and merge datasets using common identifiers.
+  
+4.	Analytical Exploration:
+	
  - Analyze order patterns across days and hours.
+ 
  - Examine customer spending habits over time.
+ 
  - Group product price tags and assess department popularity.
+ 
  - Segment customer profiles based on loyalty, demographics, and ordering patterns.
-  	
-10.	Data Visualization: Generate at least four types of visualizations to communicate insights.
-11.	
-12.	Reporting & Documentation: Compile findings, develop a final report with recommendations, and create supporting documentation (data dictionary, code comments, etc.).
-13.	
-14.	Packaging: Organize the project files and deliverables as a portfolio-ready case study.
-15.	
+   	
+5.	Data Visualization: Generate at least four types of visualizations to communicate insights.
+   
+6.	Reporting & Documentation: Compile findings, develop a final report with recommendations, and create supporting documentation (data dictionary, code comments, etc.).
+ 	
+7.	Packaging: Organize the project files and deliverables as a portfolio-ready case study.
+ 	
 ________________________________________
 
 📝 Final Deliverables
@@ -83,15 +86,15 @@ ________________________________________
 • Python Scripts/Notebooks: 
 
  - Well-documented code with clear headings and comments for data loading, cleaning, analysis, and visualization.
- - 
+   
 • Data Visualizations:
 
  - A suite of visualizations (bar plots, histograms, line charts, etc.) that illustrate key insights.
- - 
+
 • Merged Dataset:
 
  - A clean, merged data file containing all variables relevant to the analysis.
- - 
+
 • Data Dictionary:
 
  - Documentation explaining the tables and columns used.

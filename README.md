@@ -97,5 +97,3 @@ This analysis combines several open-source datasets provided by Instacart:
 **Project Completed | Portfolio-Ready ✅**
 
 ---
-
-Let me know if you'd like to add a Tableau dashboard, GitHub repo badge, thumbnail image, or anything extra to make this shine even brighter in your portfolio!
